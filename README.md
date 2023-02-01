@@ -3,7 +3,7 @@ This is a just-for-fun project implementing a trading strategy on the QuantConne
 
 I have chosen to use Python because of its many excellent data-related libraries, such as Pandas and Numpy, and the language's relative slowness is not a concern, given the strategy used. Additionally, Python is the language I am most comfortable with and there is an extensive support community for algorithmic trading using Python and its libraries.
 
-The logging is mostly commented out because of log limits on QuantConnect, so do uncomment these at your discretion. 
+The logging is mostly commented out.
 
 ## Alpha model
 
