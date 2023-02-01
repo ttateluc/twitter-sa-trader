@@ -1,4 +1,6 @@
 # Python Twitter SATrader
+![Screenshot (3)](https://user-images.githubusercontent.com/97220909/215922584-f60c7c6e-19f4-42c5-9eba-be365deec843.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/97220909/215922586-5a11c0ca-6e5c-41cc-aa80-9e681504d610.png)
 This is a just-for-fun project implementing a trading strategy on the QuantConnect platform, and my first experience with building a trading bot more broadly. It goes without saying that this bot is not to be used for live trading, unless you have more money than sense. 
 
 I have chosen to use Python because of its many excellent data-related libraries, such as Pandas and Numpy, and the language's relative slowness is not a concern, given the strategy used. Additionally, Python is the language I am most comfortable with and there is an extensive support community for algorithmic trading using Python and its libraries.
